@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "5star"
+    },
+    {
+      "id": 1,
+      "name": "dairymilk"
+    },
+    {
+      "id": 2,
+      "name": "fuse"
+    },
+    {
+      "id": 3,
+      "name": "kitkat"
+    },
+    {
+      "id": 4,
+      "name": "milkybar"
+    },
+    {
+      "id": 5,
+      "name": "munch"
+    },
+    {
+      "id": 6,
+      "name": "snickers"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
